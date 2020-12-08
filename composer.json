@@ -20,5 +20,8 @@
         "psr-4": {
             "Modules\\Pages\\": ""
         }
+    },
+    "require": {
+        "php": ">=7.0.0"
     }
 }
